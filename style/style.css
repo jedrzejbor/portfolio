@@ -515,7 +515,7 @@ nav ul li:hover {
 
 @media (orientation:portrait) and (max-width:380px) {
     .navigation {
-        margin-top: 5vh;
+        margin-top: 15vh;
     }
 }
 
