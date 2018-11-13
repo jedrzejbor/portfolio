@@ -315,7 +315,7 @@ nav ul li:hover {
     }
 
     p {
-        font-size: 1em;
+        font-size: 0.9em;
     }
 
     nav ul li a {
@@ -337,7 +337,7 @@ nav ul li:hover {
     }
 
     p {
-        font-size: 1em;
+        font-size: 0.8em;
         width: 90%;
     }
 
@@ -354,7 +354,7 @@ nav ul li:hover {
     }
 
     p {
-        font-size: 2.5em;
+        font-size: 2.3em;
     }
 
     nav ul li {
@@ -424,7 +424,7 @@ nav ul li:hover {
     }
 
     p {
-        font-size: 1.8em;
+        font-size: 1.7em;
     }
 }
 
@@ -449,6 +449,10 @@ nav ul li:hover {
     h1 {
         margin: 10vh auto 0;
         font-size: 2em;
+    }
+
+    p {
+        font-size: 1.6em;
     }
 
     .navigation {
@@ -535,6 +539,6 @@ nav ul li:hover {
     }
 
     p {
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
 }
