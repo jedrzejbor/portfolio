@@ -59,3 +59,9 @@ section {
         border-color: transparent;
     }
 }
+
+@media (orientation:portrait) and (max-width:800px) {
+    .building {
+        font-size: 2em;
+    }
+}
